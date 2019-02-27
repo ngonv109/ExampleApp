@@ -13,6 +13,7 @@ namespace Demo
         [STAThread]
         static void Main()
         {
+            //Tuan sua
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

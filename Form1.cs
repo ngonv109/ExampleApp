@@ -14,6 +14,11 @@ namespace Demo
         public Form1()
         {
             InitializeComponent();
+
+            //kiem tra dieu kien tren master
+            int c = 8;
+            int d = 9;
+            int e = 10;
         }
     }
 }

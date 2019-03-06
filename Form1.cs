@@ -15,10 +15,18 @@ namespace Demo
         {
             InitializeComponent();
 
+
             //kiem tra dieu kien tren master
             int c = 8;
             int d = 9;
             int e = 10;
+
+            //feature-Apptest
+            int a = 6;
+            int b = 7;
+
+
+
         }
     }
 }
